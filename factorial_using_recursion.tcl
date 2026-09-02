@@ -11,5 +11,5 @@ proc factorial {n} {
 puts "\nFactorial of 5 is --> [factorial 5]\n"
 
 #modifying this file by finding the factorial of 7
-puts "\nFactorial of 5 is --> [factorial 5]\n"
+puts "\nFactorial of 5 is --> [factorial 7]\n"
 
