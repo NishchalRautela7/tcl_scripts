@@ -4,5 +4,12 @@ set name "Nishchal Singh Rautela"
 if {[regexp {Rautela} $name]} {
     puts "Match found: Rautela is in the name."
 } else {
-    puts "No match found."
+	puts "Match --> "Rautela" not found."
+	
+}
+
+if {[regexp {Nishchal} $name]} {
+	puts "Match Found : Nishchal is in the name."
+} else {
+	puts "Match --> "Nishchal" not found."
 }
